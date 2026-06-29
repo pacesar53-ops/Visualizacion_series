@@ -1,4 +1,4 @@
-olución de ventasimport streamlit as st
+import streamlit as st
 import pandas as pd
 # Título de la aplicación
 st.title("Evolución de Ventas")
