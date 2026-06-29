@@ -1,4 +1,4 @@
-import streamlit as st
+olución de ventasimport streamlit as st
 import pandas as pd
 # Título de la aplicación
 st.title("Grafica de series de tiempo")
